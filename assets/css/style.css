@@ -45,8 +45,12 @@
 img.logo {
     width: 30%;
     position: relative;
-    top: -20px;
-    right: 100px;
+    top: -19px;
+    right: 15%;
+}
+.text {
+
+    margin-top: 45px;
 }
  
 .icon-twitter:before { content: '\f099'; } /* '' */

@@ -59,7 +59,7 @@
 	.hero h1 {
 		font-size: 38px
 	}
-
+	
 	.job-title {
 		font-size: 20px;
 	}
@@ -399,6 +399,7 @@
 	.site-footer .col-xs-12 {
 		text-align: center;
 	}
+	
 }
 
 /* Extra Small Devices, Phones */ 
@@ -461,4 +462,16 @@
 	.site-footer .col-xs-offset-3 {
 		margin-left: 0;
 	}
+	.text-right {
+		position: absolute;
+		top: 44%;
+		left: -16%;
+	}
+	img.logo {
+		width: 30%;
+		position: relative;
+		top: -6px;
+		right: 2%;
+	}
+	
 }
